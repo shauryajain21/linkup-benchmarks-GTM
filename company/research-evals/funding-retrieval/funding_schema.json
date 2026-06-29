@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "found": { "type": "boolean" },
+    "total_funding_raised_text": { "type": "string", "description": "e.g. $830M, as reported" },
+    "total_funding_raised_musd": { "type": "number", "description": "total capital raised in millions USD" },
+    "valuation_text": { "type": "string" },
+    "valuation_musd": { "type": "number", "description": "latest valuation in millions USD" },
+    "primary_source_url": { "type": "string" }
+  }
+}

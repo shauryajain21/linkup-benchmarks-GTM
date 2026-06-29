@@ -1,0 +1,3435 @@
+{
+ "linkedin.com/in/adedoyin-ola-aidr-2b5570161.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 78,
+    "actionability": 82,
+    "note": "Captures Sept 2025 course post + June 2024 Addosser move; fresh, current role correct, sharp Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 80,
+    "actionability": 55,
+    "note": "Detailed career history but stale current role (Capital Bancorp, missed Addosser move); Qs anchored to wrong current employer"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 50,
+    "actionability": 45,
+    "note": "Thin, stale current role (Capital Bancorp), generic follower-count filler and boilerplate Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 88,
+    "actionability": 80,
+    "note": "Correctly tracks move to Addosser; rich grounded detail (Globus N1.2bn CP), tailored Qs, slightly past-focused"
+   }
+  }
+ },
+ "linkedin.com/in/it-aescobar.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 82,
+    "actionability": 80,
+    "note": "Recent 2025 certs (MIT, AWS, IPMA Oct 2025) give fresh hooks + sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "Solid career detail + IT/OT post hook, but mostly trajectory not very recent"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 60,
+    "actionability": 55,
+    "note": "Mostly static bio, error claiming 'two years in' since March 2024, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 75,
+    "actionability": 65,
+    "note": "Good detail incl email, but limited recency; mostly career history, decent Qs"
+   }
+  }
+ },
+ "linkedin.com/in/alexander-afuberoh.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief, nothing to use"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "detailed career + Jan 2024 role; LinkedIn activity hooks but from 2023, questions solid but career-history heavy",
+    "overall": 64
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 82,
+    "actionability": 78,
+    "overall": 71,
+    "note": "named Second Narrows Tunnel project + Oct 2023 recognition; sharp tailored Qs, current Calgary context"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 75,
+    "actionability": 72,
+    "overall": 60,
+    "note": "broad detail + possible family connection note; mostly historical, no recent hook, solid but generic-leaning Qs"
+   }
+  }
+ },
+ "linkedin.com/in/alexandre-silveira-portela-da-silva-9b230826.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 55,
+    "actionability": 50,
+    "overall": 45,
+    "note": "Dated 2020-2021 posts give concrete hooks but all stale; questions tied to specific posts but assume TOTVS role uncertainly"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 45,
+    "actionability": 45,
+    "overall": 35,
+    "note": "Solid tenure/role detail but Q1 2026 results and May 2026 T-Cloud claims look fabricated/future-dated, which undermines trust"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 70,
+    "actionability": 65,
+    "overall": 53,
+    "note": "Concrete role detail (Seneca field support, SP site, day-to-day tasks); grounded and sharp Qs but little fresh news"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 68,
+    "actionability": 62,
+    "overall": 53,
+    "note": "Rich grounded role/skill detail plus a current-ish Universo TOTVS 2025 hook; sharp tailored Qs"
+   }
+  }
+ },
+ "linkedin.com/in/alvaroasela.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 80,
+    "actionability": 88,
+    "note": "Very fresh 2026 posts (El Deshielo at Cannes, Na Hinarere doc) + sharp tailored Qs; some 2026 dates suspicious but rich hooks"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 72,
+    "actionability": 70,
+    "note": "Mix of recent posts + Threads/lifestyle detail; solid tenure facts, Qs decent but some generic"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 65,
+    "actionability": 45,
+    "note": "Detailed bio (1200 films, role) but stale, only 2024 activity, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 82,
+    "actionability": 72,
+    "note": "Strong grounded IMDb credits (El Conde, The Mother and the Bear) but few recent hooks; good specific Qs"
+   }
+  }
+ },
+ "linkedin.com/in/ana-mac\u00eado-87b77b15a.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 68,
+    "specificity": 80,
+    "actionability": 82,
+    "note": "Mar 2025 SST event hook + specific iDun details and sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/ana\u00efs-agert.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Fresh Sept 2025 post hook (job-seeking, 1yr at Thales), specific & tailored Qs"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 50,
+    "actionability": 45,
+    "overall": 41,
+    "note": "Profile metrics + 2022 acquisition history, somewhat stale, mid Qs"
+   },
+   "linkup_overall_fix": 0
+  }
+ },
+ "linkedin.com/in/angelinashivahany.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 85,
+    "actionability": 80,
+    "overall": 81,
+    "note": "rich current-role detail + USTP MT program hook, sharp tailored Qs; some future-dated claims"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 68,
+    "actionability": 70,
+    "overall": 69,
+    "note": "current USTP role captured, decent Qs but lighter detail and vague AI-hiring claim"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 55,
+    "actionability": 50,
+    "overall": 46,
+    "note": "stale: lists AEON as current role, missing USTP move; self-aware of mismatch but weaker hooks"
+   }
+  }
+ },
+ "linkedin.com/in/angga-pratama28.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 88,
+    "actionability": 85,
+    "note": "Specific dated GSS job posts (June 2025) with named clients/roles; sharp hooks. One future-dated repost (Mar 2026) slightly suspect."
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 78,
+    "actionability": 70,
+    "note": "Detailed full career history but mostly chronological/stale; right current role; Qs solid but less time-relevant."
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 70,
+    "actionability": 62,
+    "note": "Confirms current role + HQ detail; lighter on recent posts; Qs somewhat generic HR-ops filler."
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 65,
+    "specificity": 80,
+    "actionability": 75,
+    "note": "Good current role + recent Sept-Oct 2025 GSS hiring activity; specific headline/branches; decent tailored Qs."
+   }
+  }
+ },
+ "linkedin.com/in/aracelibelinchonherrero8107475.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 78,
+    "actionability": 82,
+    "note": "Rich recent course completions (Aug-Oct 2025) and event hooks, sharp tailored Qs; one odd 2027 date but mostly grounded"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 60,
+    "actionability": 65,
+    "overall": 61,
+    "note": "Names onRed role but March 2026 start is a fabricated future date; decent Qs but thin"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 70,
+    "actionability": 55,
+    "overall": 50,
+    "note": "Detailed but mostly stale education history; Vaillant Group contradicts onRed context, weakens trust"
+   },
+   "linkup_overall_fix": 0
+  }
+ },
+ "linkedin.com/in/arooj-furqan-580770332.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 85,
+    "actionability": 80,
+    "overall": 73,
+    "note": "Rich recent post hooks but some 2026 dates risk fabrication; sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 70,
+    "actionability": 65,
+    "overall": 56,
+    "note": "Solid role/career detail but mostly static; flags AI posts as not hers; decent Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 70,
+    "actionability": 70,
+    "overall": 61,
+    "note": "Concrete title, follower count, headline; some recent laptop hook; sharp Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 72,
+    "actionability": 75,
+    "overall": 62,
+    "note": "Good headline + recommendation detail, role transition Qs; little fresh intel"
+   }
+  }
+ },
+ "linkedin.com/in/aruna-ojha.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 58,
+    "specificity": 80,
+    "actionability": 72,
+    "overall": 69,
+    "note": "ISB AI program + specific LinkedIn activity hooks, mostly recent; some Qs lean generic"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 62,
+    "actionability": 58,
+    "overall": 53,
+    "note": "solid skills/role detail but little fresh time-relevant intel; Qs decent but static"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 38,
+    "specificity": 68,
+    "actionability": 55,
+    "overall": 53,
+    "note": "detailed career/skills + email, but mostly stale history; Qs broad"
+   }
+  }
+ },
+ "linkedin.com/in/asha-balachandran-496abbb.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 65,
+    "actionability": 68,
+    "note": "Rich learning-course timeline incl future-dated June 2026 course (suspect), good upskilling Qs but no current title"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Names current AppDev Mgr role (Feb 2026) + leadership transition hook + sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 72,
+    "actionability": 80,
+    "note": "Current role + AI headline, flags namesake; solid AI-focused Qs but lighter on concrete events"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Strong concrete awards/AWS migration but role appears stale (Sr QA, missed Feb 2026 promotion)"
+   }
+  }
+ },
+ "linkedin.com/in/ashish-negi-44473549.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 78,
+    "actionability": 72,
+    "note": "Rich detail with April 2024 announcement hook (engagement stats) + sharp tailored Qs, but role intel ~1yr old"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 58,
+    "actionability": 65,
+    "note": "Solid role/title, decent Qs incl Explore 2026 AI hook, but thinner and mostly static bio"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 58,
+    "specificity": 80,
+    "actionability": 75,
+    "note": "Clear Dec2018-Apr2024 trajectory + promotion hook, follower count, sharp scope-transition Qs"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "note": "Empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/aslaug-marie-haugen-8981899a.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 80,
+    "actionability": 86,
+    "overall": 83,
+    "note": "Many recent dated posts (2025-2026) + sharp tailored Qs on specific roles/initiatives"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 90,
+    "actionability": 88,
+    "overall": 88,
+    "note": "Rich grounded detail, fresh 2026 hooks (pay deal, truck-driver campaign), sharp Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 50,
+    "actionability": 45,
+    "overall": 41,
+    "note": "Accurate but thin, mostly static bio, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 72,
+    "actionability": 55,
+    "overall": 50,
+    "note": "Detailed career/company facts but mostly stale (2020-2021), some outdated electric-bus angle"
+   }
+  }
+ },
+ "linkedin.com/in/axel-v-aaser-245970136.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 78,
+    "actionability": 82,
+    "overall": 72,
+    "note": "Dated LinkedIn posts/likes give concrete hooks + sharp tailored Qs, though 2023-era"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 80,
+    "actionability": 70,
+    "overall": 58,
+    "note": "Rich career detail incl chef pivot, but mostly static history, little fresh intel"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 45,
+    "actionability": 45,
+    "overall": 38,
+    "note": "Thin, mostly title/follower counts, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 60,
+    "actionability": 55,
+    "overall": 48,
+    "note": "Detailed bio but company news cites suspicious future 2026 dates that could embarrass"
+   }
+  }
+ },
+ "linkedin.com/in/aysun-boral\u0131o\u011flu-576a87b8.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 60,
+    "actionability": 35,
+    "overall": 38,
+    "note": "All notes anchored to Aug-Sep 2016 book launch; detailed but stale, Qs dated"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 85,
+    "actionability": 65,
+    "overall": 58,
+    "note": "Very detailed dual-career profile, current voice role + Storytel hooks, but mostly old history"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 55,
+    "actionability": 60,
+    "overall": 49,
+    "note": "Concise, current voice + consulting hooks, sharp dual-career Qs, less depth"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 80,
+    "actionability": 70,
+    "overall": 62,
+    "note": "Solid current-role detail + incir.com closure hook, tailored Qs, best balance"
+   }
+  }
+ },
+ "linkedin.com/in/benjbryson.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 90,
+    "actionability": 87,
+    "note": "Very fresh hooks (May 2026 ITI deal, Fusion NX, CNE2026) + sharp tailored Qs; some KKR/2026 dates unverifiable, Fusion NX vs MX flagged"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 82,
+    "actionability": 75,
+    "note": "Solid grounded detail (Piezocryst, ReliaSoft, Fusion MX) but mostly early-2025 and older history; Qs good but less time-current"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 75,
+    "actionability": 72,
+    "note": "Mix of fresh (Mar 2026 Foundation, Apr 2025 site) and stale; good Qs but some older events, decent grounding"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 85,
+    "actionability": 70,
+    "note": "Detailed career trajectory + org chart, very grounded, but heavy on stale history; few current hooks beyond May 2026 summit"
+   }
+  }
+ },
+ "linkedin.com/in/bryan-skylar-24876557.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 90,
+    "actionability": 90,
+    "note": "Rich recent posts (Iftar, training, Atomy), named properties/clients, sharp tailored Qs; future-dated 2026 posts slightly suspect"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 70,
+    "actionability": 60,
+    "note": "Deep career history but mostly stale; vague post tags, decent but less specific Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 50,
+    "actionability": 45,
+    "note": "Static bio + certs, no recent hooks, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 65,
+    "actionability": 55,
+    "note": "Detailed career/role facts but all stale, no recent activity, mostly generic Qs"
+   }
+  }
+ },
+ "linkedin.com/in/c-kitt-60902469.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 85,
+    "actionability": 86,
+    "note": "Apr 2025 Baltimore relocation + open-to-work hook, named clients & capsules, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 82,
+    "actionability": 70,
+    "note": "Detailed career history + recent Disability Culture Lab like; mostly stale but one fresh signal"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 55,
+    "actionability": 58,
+    "note": "Static bio/headline + follower counts, thin on recency, semi-generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "Dec 2024 article hook + full name & Mellon detail; good Qs but some inferred fields"
+   }
+  }
+ },
+ "linkedin.com/in/caroline-mcgovern-783b191.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 70,
+    "actionability": 72,
+    "overall": 62,
+    "note": "Rich personal/recruiting detail but mostly 2021-2022 stale; some sharp human-interest Qs (Katie/GDHQ, governor)"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 40,
+    "actionability": 45,
+    "overall": 39,
+    "note": "Confirms Credit Manager at Goodyear but thin and generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 82,
+    "actionability": 85,
+    "overall": 82,
+    "note": "Fresh 2026 Goodyear earnings/initiative hooks + sharp role-tailored Qs; some corporate dates need sanity-check"
+   }
+  }
+ },
+ "linkedin.com/in/celine-aubry-dumand-45294a48.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 80,
+    "actionability": 85,
+    "note": "Oct 2025 'small world' post + GW Alpha Phi hook is fresh and personal; sharp Qs, some company filler"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 82,
+    "actionability": 78,
+    "note": "Rich career detail + recent post engagement (2025/2026 reports), but leans on likes vs original posts; solid Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 55,
+    "actionability": 60,
+    "note": "Thin, mostly stale; flags Paris/NY ambiguity usefully but few fresh hooks"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 88,
+    "actionability": 80,
+    "note": "Dense grounded accomplishments (200% C2G, $100M, AI deals); but future-dated Gartner June 2026 claim and little recent personal intel"
+   }
+  }
+ },
+ "linkedin.com/in/chris-culleton-b6099836.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 35,
+    "actionability": 40,
+    "overall": 31,
+    "note": "Only stale 2019/2022 event hooks; correct on GBC but thin and dated"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 92,
+    "actionability": 90,
+    "overall": 90,
+    "note": "Rich current role + C1 upgrade + LGC award + reorg hooks, very sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 60,
+    "actionability": 70,
+    "overall": 67,
+    "note": "Current role + DLO/contractor detail, solid Qs but less specific intel than exa"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 85,
+    "overall": 83,
+    "note": "Strong current role, C3 history, near-bankruptcy + reorg context, contact details, sharp Qs"
+   }
+  }
+ },
+ "linkedin.com/in/craig-casucci.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 40,
+    "actionability": 45,
+    "overall": 36,
+    "note": "2020 resume posts + 2023 entertainer hook; thin and dated, no current role"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 78,
+    "actionability": 65,
+    "overall": 56,
+    "note": "rich career detail but all pre-2020; transition Qs decent, nothing current"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 60,
+    "actionability": 60,
+    "overall": 51,
+    "note": "notes current part-time helicopter pilot + clearance; solid next-chapter Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 80,
+    "actionability": 70,
+    "overall": 64,
+    "note": "Frontline Arts board role is freshest current hook + concrete deeds, sharp Qs"
+   }
+  }
+ },
+ "linkedin.com/in/damini-sharma-33220b155.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 60,
+    "actionability": 65,
+    "note": "Recent award hooks (March 2026) but flags future dates; rich stale recruitment history, decent Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Oct 2025 promotion + detailed timeline + fulfillment hub post hook, sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 75,
+    "note": "Strong current detail (Furniture Private Label category) + promotion, solid Qs slightly generic"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 82,
+    "actionability": 78,
+    "note": "Dense grounded detail on current role + category, well-tailored Qs, no fresh post hook"
+   }
+  }
+ },
+ "linkedin.com/in/deborahowodunni.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 90,
+    "actionability": 86,
+    "note": "Very fresh hooks (LIME win Dec 2025, Feb 2026 magazine), dense grounded detail, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 70,
+    "actionability": 55,
+    "note": "Solid career history but mostly stale; some questionable date overlaps; Qs lean backward-looking"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 75,
+    "actionability": 72,
+    "note": "Good current positioning (Australia, founder-ops angle), decent Qs, but less time-stamped freshness"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 85,
+    "actionability": 78,
+    "note": "Rich grounded company/team detail and recent hiring/product hooks; strong Qs though some agency-focused not person-focused"
+   }
+  }
+ },
+ "linkedin.com/in/deikeilyn-navarro-73b412169.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 60,
+    "specificity": 55,
+    "actionability": 45,
+    "note": "Wrong FADSA \u2014 conflated Florida adult day care assoc with the real Costa Rica wellness firm; fresh hooks but fabricated context"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 70,
+    "actionability": 55,
+    "note": "Correct person & CR location; solid grounded career detail but no recent hooks, fairly generic Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 50,
+    "actionability": 45,
+    "note": "Right person, accurate but thin and stale; follower counts add little, boilerplate Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 85,
+    "note": "Right person + fresh 'Ciclo del Bienestar' post hook & specific skills; sharp tailored Qs (note 2026 date looks off)"
+   }
+  }
+ },
+ "linkedin.com/in/anselm-lorenzoni-79657284.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 88,
+    "actionability": 86,
+    "note": "Fresh SCIRES role + 2026 events/roadmap, many sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 75,
+    "actionability": 60,
+    "note": "Solid EDAG detail but misses current SCIRES move; flags but defaults to stale role"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 90,
+    "actionability": 88,
+    "note": "Current SCIRES role w/ dates, location, board membership; sharp grounded Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 86,
+    "specificity": 90,
+    "actionability": 84,
+    "note": "Rich, recent 2026 events + deep bio; tailored Qs, last Q cut off"
+   }
+  }
+ },
+ "linkedin.com/in/edgar-hayrapetyan-3a6b25a4.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 70,
+    "actionability": 68,
+    "notes_dummy": 0,
+    "overall": 56,
+    "note": "rich detail but activity mostly 2019; one possibly-fresh 2025 Azerbaijan budget post is a nice hook"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 60,
+    "actionability": 65,
+    "overall": 59,
+    "note": "strong career detail + DSV 2026 events, but those future-dated company items risk being fabricated/unverifiable hooks"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 45,
+    "actionability": 40,
+    "overall": 35,
+    "note": "accurate but thin; explicitly no recent activity, generic questions"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 15,
+    "specificity": 55,
+    "actionability": 55,
+    "overall": 40,
+    "note": "solid role-detail and tailored Qs but zero freshness, all static bio"
+   }
+  }
+ },
+ "linkedin.com/in/elian-strachan-91978278.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Dense 2023 events but no 'Retired' status; ages fast, no current hook"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 72,
+    "actionability": 75,
+    "note": "Notes 'Retired' transition + sharp post-service Q; good current hook"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 58,
+    "specificity": 75,
+    "actionability": 78,
+    "note": "Dec 2023 quote + 'Retired' transition; strong transition Qs, current angle"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 52,
+    "specificity": 82,
+    "actionability": 80,
+    "note": "Richest detail + 'Retired' hook + sharp tailored Qs; mostly 2022 history though"
+   }
+  }
+ },
+ "linkedin.com/in/emmanuel-nasamu-26261717.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 82,
+    "actionability": 84,
+    "note": "Strong recent hooks: BFUTR2025 panel, AI ethics post, Doveplum launch; sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Rich career detail but heavy on stale history; current panel hook vague, Qs solid but long"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 78,
+    "actionability": 72,
+    "note": "$35M value-creation hook is specific; mostly career history, decent Qs but less time-relevant"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 75,
+    "actionability": 68,
+    "note": "Doveplum start date conflicts (Aug 2022 vs Feb 2026); detailed but stale-leaning, no recent event hook"
+   }
+  }
+ },
+ "linkedin.com/in/eric-levy-social.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 80,
+    "actionability": 82,
+    "overall": 80,
+    "note": "Job-change hook + rich current-employer product detail; some 2026 dates may be speculative but mostly grounded, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 82,
+    "actionability": 70,
+    "overall": 69,
+    "note": "Detailed full career timeline + recent Yext-to-eMoney move, but career-history heavy; solid but mostly historical Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 55,
+    "actionability": 58,
+    "overall": 52,
+    "note": "Confirms current role + headline quote, but thin on fresh intel; older Stevie award, somewhat generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 62,
+    "specificity": 78,
+    "actionability": 80,
+    "overall": 73,
+    "note": "Strong current-employer detail (CoPlanner, 25th anniversary, ROI stats) + contact data; sharp Qs but some stats are older/2024"
+   }
+  }
+ },
+ "linkedin.com/in/erwin-samuel-040069116.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 82,
+    "actionability": 85,
+    "note": "Fresh Oct 2025 role-launch hook + career-pivot Qs, dated certs grounded"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 88,
+    "actionability": 83,
+    "note": "Dense grounded career detail, fresh Sept 2025 pivot, solid tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 80,
+    "actionability": 80,
+    "note": "Good launch hook + CSAT specifics, slightly more generic growth Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 76,
+    "actionability": 78,
+    "note": "Fresh dual-venture detail, niche Japanese Q is filler, decent Qs"
+   }
+  }
+ },
+ "linkedin.com/in/esraa-sayed-b31934215.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 60,
+    "actionability": 58,
+    "note": "Sun Pharma 3-week-old hook is usable; but 2026 future start dates look fabricated, undermining trust"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 62,
+    "actionability": 55,
+    "note": "Solid career detail + Feb 2025 employer post; 2026 dates dubious, education hooks decent"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 42,
+    "specificity": 58,
+    "actionability": 50,
+    "note": "Mar 2025 post hook + address detail; concurrent-role framing questionable, 2026 dates off"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "note": "Empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/francine-canguss\u00fa-5078891ba.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 65,
+    "actionability": 60,
+    "overall": 65,
+    "note": "Fresh #OpenToWork hook from Sep 2025 + specific roles/location, but questions assume unverified 'ULC Logistics' transition not in ground truth"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/freddy-lugo-602208aa.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 70,
+    "actionability": 65,
+    "notes_placeholder": "",
+    "overall": 56,
+    "note": "solid history + product hooks but newest data is 2021; Qs decent but mostly retrospective"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 75,
+    "actionability": 70,
+    "overall": 66,
+    "note": "bacalao 2023 launch + award hook; 2026 traffic stats feel suspect/possibly fabricated but useful Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 80,
+    "actionability": 78,
+    "overall": 68,
+    "note": "concrete 25-30% share + export markets from Dec 2023 interview; sharp tailored Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 78,
+    "actionability": 75,
+    "overall": 76,
+    "note": "Feb 2026 bacalao post = freshest hook; concrete catalog + padel personal angle, sharp Qs"
+   }
+  }
+ },
+ "linkedin.com/in/frederikeckmann.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Jan 2025 promotion hook + unique team/recruiting/BI details; rich grounded specifics and tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 72,
+    "specificity": 82,
+    "actionability": 78,
+    "note": "Dual-role Jan 2025 catch + full trajectory; detailed but heavy on stale education/internship history"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 60,
+    "actionability": 72,
+    "note": "Captures dual Jan 2025 roles + restructuring angle, but thin notes and vaguer overall"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Dual-role fresh hook + very deep detail, but lots of stale thesis/internship trivia; some Qs too academic"
+   }
+  }
+ },
+ "linkedin.com/in/kygyeung.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 60,
+    "actionability": 62,
+    "notes": "",
+    "note": "April 2024 move hook with engagement stats, decent Qs but limited recency"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 68,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "rich detail + recent liked-post hooks (PEng change, new office) make sharp current Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 72,
+    "actionability": 60,
+    "note": "detailed skills/project profile but mostly static; Qs solid but generic on tooling"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 42,
+    "specificity": 65,
+    "actionability": 58,
+    "note": "good role-focus detail but some inconsistent dates; Qs decent, low freshness"
+   }
+  }
+ },
+ "linkedin.com/in/georgesladek.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 60,
+    "actionability": 55,
+    "overall": 45,
+    "note": "solid bio, mostly old (2016 post), no recent releases"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 80,
+    "actionability": 65,
+    "overall": 59,
+    "note": "rich detail incl 2017 track, deep catalog, but no 2024 freshness"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 78,
+    "actionability": 75,
+    "overall": 76,
+    "note": "names six 2024 singles incl Apr 2024 release \u2014 freshest hook"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 80,
+    "actionability": 72,
+    "overall": 67,
+    "note": "detailed, sync-audit angle current-ish, dense Qs but no dated recent release"
+   }
+  }
+ },
+ "linkedin.com/in/harith-vadari-0a5a726.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 55,
+    "actionability": 60,
+    "note": "2020 post hooks usable but stale; Qs tied to real activity"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 78,
+    "actionability": 65,
+    "note": "rich career detail, mostly historical; solid tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 70,
+    "actionability": 60,
+    "note": "deep technical specifics but static bio, no fresh hooks"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 85,
+    "actionability": 72,
+    "note": "patents, recommendation, Quest IPO angle; strong specific Qs but low freshness"
+   }
+  }
+ },
+ "linkedin.com/in/harman-jot-singh.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 50,
+    "actionability": 45,
+    "note": "Assumes still at Genpact (likely outdated); cert hook ok but Qs rest on stale premise"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Rich, grounded detail; captures Master's transition + Qs tailored to current academic phase"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "Strongest freshness: graduated, actively job-seeking now; named client Becton Dickinson, sharp Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 55,
+    "actionability": 65,
+    "note": "Notes the Ex-Genpact move + BD client; thin overall, Qs decent but few specifics"
+   }
+  }
+ },
+ "linkedin.com/in/hellen-gontijo-33a842115.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 62,
+    "actionability": 55,
+    "note": "specific posts/articles but all 2017-2018 era, no current intel; Qs hook to old content"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 55,
+    "actionability": 45,
+    "note": "detailed past roles but stale; fabricated April 2026 anniversary contradicts/invents future date"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 45,
+    "actionability": 50,
+    "note": "honest about role being past, asks current-focus Q, but thin and stale overall"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 58,
+    "actionability": 52,
+    "note": "rich concrete detail (ticket medio, KPIs) but old; some invented 30yr/LGPD framing, no current role"
+   }
+  }
+ },
+ "linkedin.com/in/henry-oberdorfer-37608682.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 72,
+    "actionability": 78,
+    "note": "Fresh hooks: April 2025 TV show pitch, 2023 villa post; sharp event-tied Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 88,
+    "actionability": 70,
+    "note": "Very detailed registry data, July 2025 filing is fresh; Qs solid but some boilerplate"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 60,
+    "actionability": 72,
+    "note": "Oct 2025 role-end hook is timely and actionable; thinner detail otherwise"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 82,
+    "actionability": 68,
+    "note": "Rich career/education detail but mostly stale; thoughtful but historical Qs"
+   }
+  }
+ },
+ "linkedin.com/in/isa-del-canto-fern\u00e1ndez-5180522b.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 55,
+    "actionability": 60,
+    "note": "2021 talk + some engagement hooks; mostly stale, decent Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 80,
+    "actionability": 65,
+    "note": "rich career/education detail but all old; thoughtful Qs, low freshness"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 45,
+    "actionability": 50,
+    "note": "thin, network stats + founding date; generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 28,
+    "specificity": 82,
+    "actionability": 70,
+    "note": "very detailed bio/skills, PASEA hook; sharp Qs but no fresh intel"
+   }
+  }
+ },
+ "linkedin.com/in/jaya-lekshmi-097a0b2b7.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 78,
+    "actionability": 75,
+    "note": "Fresh April 2025 role announcement hook + recent team-expansion detail, tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 80,
+    "actionability": 72,
+    "note": "Detailed grounded facts but Dec 2024 start date conflicts with linkup's April 2025; solid Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 65,
+    "actionability": 60,
+    "note": "Notes flag overlap oddity; some vague self-description, decent transition Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 70,
+    "actionability": 55,
+    "note": "Heavy on clinic-org detail, light on person freshness; mostly generic Qs"
+   }
+  }
+ },
+ "linkedin.com/in/j\u00falia-t\u00e1rczy-09b9b244.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 70,
+    "actionability": 80,
+    "note": "Recent March 2025 PCM cert hook + dated posts, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 80,
+    "actionability": 65,
+    "note": "Rich grounded detail but mostly evergreen bio; one suspect future traffic date"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 78,
+    "actionability": 60,
+    "note": "Detailed factual profile but static, founding-date hooks not fresh"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 82,
+    "actionability": 78,
+    "note": "Strong grounded career history + PCM cert, sharp Qs but little time-recent"
+   }
+  }
+ },
+ "linkedin.com/in/kathryn-mathews-3101684.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 88,
+    "actionability": 82,
+    "note": "Fresh 2026 ACC/coaching milestones + Princeton project specifics; strong hooks but some Princeton Qs may not be her domain"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Confirms title + recent 2026 company awards/COO hire; solid sharp Qs, slightly less personal-fresh than coaching news"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 65,
+    "actionability": 70,
+    "note": "Solid role/cert detail but thin on recent events; mostly static bio, decent tailored Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 88,
+    "actionability": 85,
+    "note": "Rich grounded detail (tools, focus areas, IDEA2026 hook) + sharp tailored Qs; fewer dated-recent personal items"
+   }
+  }
+ },
+ "linkedin.com/in/kaustubh-sariputra-995602212.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 70,
+    "actionability": 68,
+    "overall": 60,
+    "note": "2024 award + LLB give timely hooks; specific and tailored Qs"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 60,
+    "actionability": 60,
+    "overall": 49,
+    "note": "solid role/tenure detail but mostly static history, no recent hook"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 85,
+    "actionability": 70,
+    "overall": 58,
+    "note": "very detailed, rich colleague/Q hooks but all static, little fresh today"
+   }
+  }
+ },
+ "linkedin.com/in/kendy-miranda-274419130.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 88,
+    "actionability": 90,
+    "overall": 87,
+    "note": "fresh 2025 event hooks (fashion runway, Dia de la Mujer) + sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 82,
+    "actionability": 70,
+    "overall": 64,
+    "note": "detailed career history + engagement notes but mostly stale, decent Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 45,
+    "actionability": 40,
+    "overall": 38,
+    "note": "thin, vague, generic Qs, no recent intel"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 65,
+    "actionability": 60,
+    "overall": 62,
+    "note": "has Nov 2025 'Altea del Sol' hook but likely conflates Paraguay entity (different person/market), risky claims"
+   }
+  }
+ },
+ "linkedin.com/in/krist\u00fdna-velebn\u00e1-07a62a129.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 90,
+    "specificity": 92,
+    "actionability": 88,
+    "note": "Fresh Dec 2025 HK fair with named brands + 2026 Saudi events, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 78,
+    "actionability": 78,
+    "note": "Good current role + May 2026 conference hook, but mixed with stale career history"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 60,
+    "actionability": 55,
+    "note": "Accurate but thin; contact details and Feb 2026 PDF, mostly generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 75,
+    "actionability": 60,
+    "note": "Detailed but heavy on old roles (NOVUMM 2018, CzechInvest); little time-relevant intel"
+   }
+  }
+ },
+ "linkedin.com/in/lorraine-manfre-51a57153.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 72,
+    "actionability": 70,
+    "note": "Oct 2024 role + engagement metrics + Gutenberg post hook; specific but only mildly recent"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 65,
+    "actionability": 60,
+    "note": "deep career history but key 'fresh' awards dated 2026 (fabricated future), undermines trust"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 50,
+    "actionability": 45,
+    "note": "accurate but thin, mostly static bio + generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 78,
+    "actionability": 75,
+    "note": "rich grounded detail, 'New Beginnings' + rebrand + volunteer hooks, sharp tailored Qs"
+   }
+  }
+ },
+ "linkedin.com/in/lucie-renaud-ab689211.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 85,
+    "actionability": 86,
+    "note": "Fresh PAS2025 hook with her own June 13 post + named colleagues; sharp tailored Qs, no obvious fabrications"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 72,
+    "actionability": 84,
+    "note": "Strong career detail + PAS2025 repost, but Clingan 'June 2026' and Germany 'Feb 2026' dates are future/fabricated and pull down trust"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 55,
+    "actionability": 50,
+    "note": "Accurate static bio but no recent hooks; follower counts are filler; generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 70,
+    "actionability": 78,
+    "note": "Good Farnborough July 2024 + Winamac divestiture hooks, solid Qs, but revenue figures conflict with exa and no last-few-weeks intel"
+   }
+  }
+ },
+ "linkedin.com/in/luisarnulfopinto.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 55,
+    "actionability": 45,
+    "note": "Two dated LinkedIn posts (2022/2023) but zero engagement and ambiguous role data; mixes namesake-ish colleague list. Qs include odd #denuncia hook."
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Rich grounded career detail, confirmed current role; sharp tailored Qs but mostly background, little time-relevant intel."
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 50,
+    "actionability": 55,
+    "note": "Accurate but thin; confirms current role, generic-ish Qs, no fresh hook."
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 85,
+    "note": "Confirms role + names a concrete upcoming event (Prote\u00edna Viva 2026 Quito) and Ecuador client hook; very actionable Qs."
+   }
+  }
+ },
+ "linkedin.com/in/luiz-candido-morais-210871161.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 78,
+    "actionability": 82,
+    "overall": 76,
+    "note": "Fresh Feb 2025 leadership post with quotable hooks and sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 85,
+    "actionability": 75,
+    "overall": 64,
+    "note": "Rich grounded detail (stores, tenure, 2023 interview) but mostly historical"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 60,
+    "actionability": 60,
+    "overall": 48,
+    "note": "Solid bio facts but stale, somewhat generic ownership Qs"
+   }
+  }
+ },
+ "linkedin.com/in/l\u00e9na-yguel-b794b2a7.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 70,
+    "actionability": 55,
+    "note": "Detailed but all 2019-2021 Viapost-era; nothing current, stale hooks"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 65,
+    "actionability": 60,
+    "note": "Jobsharing podcast is a nice unique hook but undated; rest stale Viapost"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 35,
+    "actionability": 30,
+    "note": "Thin, generic boilerplate Qs, only location/follower counts"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 80,
+    "actionability": 82,
+    "note": "Confirms current RH role + 2024 job postings = fresh, specific, sharp Qs"
+   }
+  }
+ },
+ "linkedin.com/in/magali-martin-8a04a093.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 78,
+    "actionability": 75,
+    "note": "May 2024 internship post hook + named students/sectors; tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 80,
+    "actionability": 65,
+    "note": "rich career/education detail but all stale; thoughtful but evergreen Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 18,
+    "specificity": 60,
+    "actionability": 55,
+    "note": "solid bio facts, no recent hook, mostly generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 15,
+    "specificity": 60,
+    "actionability": 50,
+    "note": "static bio, ministry code detail, generic evergreen Qs"
+   }
+  }
+ },
+ "linkedin.com/in/marccoletto.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 82,
+    "specificity": 80,
+    "actionability": 85,
+    "note": "June 2025 role-change post hook with reactions; specific campaigns and partnerships; sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 55,
+    "actionability": 60,
+    "note": "good role-transition detail but several fabricated future-dated 'facts' (FIT June 2026, NCAA 2026) that would embarrass"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 58,
+    "actionability": 60,
+    "note": "clean role-change fact and grounded detail, but thin and Qs are fairly generic"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 62,
+    "actionability": 65,
+    "note": "rich personal detail (Sep 2025 marriage, headcount) but title timeline confused and some fillerish Qs"
+   }
+  }
+ },
+ "linkedin.com/in/marcosdp.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "May 2025 event hook with named panelists, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 90,
+    "specificity": 78,
+    "actionability": 80,
+    "note": "Very fresh Jan 2026 e-Not Provas launch hook; some future-dated claims (Sept 2025 AI) risk"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 72,
+    "actionability": 60,
+    "note": "Solid role detail but mostly static history, no recent hook, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 85,
+    "actionability": 70,
+    "note": "Rich platform/role detail but stale; no recent event hook, decent Qs"
+   }
+  }
+ },
+ "linkedin.com/in/maria-balasa-77136915.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 78,
+    "actionability": 85,
+    "note": "Dec 2025 #pkuinwinter post + Oct 2023 OpenToWork + recent likes = strong fresh hooks, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 90,
+    "actionability": 70,
+    "note": "very detailed career history but mostly stale; Jan 2025 photo only fresh point; solid grounded Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 60,
+    "actionability": 55,
+    "note": "thin, follower counts only fresh-ish detail, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 28,
+    "specificity": 85,
+    "actionability": 72,
+    "note": "rich grounded history incl blog, but all stale; no recent activity, decent Qs"
+   }
+  }
+ },
+ "linkedin.com/in/mayaramotoki.": {
+  "name": "",
+  "judge": {}
+ },
+ "linkedin.com/in/michael-mcgahan-13a29456.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 72,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "Scentre/Westfield deal + Gen Z study hooks; some future-dated Q1 2026 figures risky but rich, sharp Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 82,
+    "actionability": 80,
+    "note": "Melbourne-to-Brisbane move + Great Escape/Strummingbird hooks, detailed career; some 2026 events speculative but strong Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 62,
+    "actionability": 70,
+    "note": "Confirms role/relocation, clean and grounded but lighter on current event hooks; solid tailored Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 65,
+    "specificity": 70,
+    "actionability": 68,
+    "note": "BTS ARIRANG + ARIA hooks fresh, but title lags (Integration Director, not promoted role) \u2014 partly stale on current position"
+   }
+  }
+ },
+ "linkedin.com/in/min-je-kwak-a8731117.": {
+  "name": "MoFo",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 70,
+    "actionability": 68,
+    "notes_placeholder": "",
+    "overall": 60,
+    "note": "April 2024 post + euphree e-bike specific hook; rebrand framing slightly off but solid tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 78,
+    "actionability": 65,
+    "overall": 56,
+    "note": "Rich career detail + 6.42x stat hooks, but mostly stale history and low-signal 'likes' freshness"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 28,
+    "specificity": 60,
+    "actionability": 58,
+    "overall": 48,
+    "note": "Solid identity confirmation but mostly static firmographics; some conflicting acquisition framing; generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 82,
+    "actionability": 80,
+    "overall": 67,
+    "note": "Best specifics (La La Land/John Wick, iOS14 posts) + sharp tailored Qs; merger framing recent-ish, strongest opener prep"
+   }
+  }
+ },
+ "linkedin.com/in/momina-sardar.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 70,
+    "actionability": 55,
+    "notes": "",
+    "note": "Sept 2022 posts cited, good namesake disambiguation, but dated intel"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 60,
+    "actionability": 50,
+    "note": "static bio details, no recent hooks, mostly generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 78,
+    "actionability": 60,
+    "note": "rich company structure detail (Dnex/Pnex/Enex), but all static, no fresh hook"
+   }
+  }
+ },
+ "linkedin.com/in/murtuza-shah-khan-1b112445.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 82,
+    "notes": "",
+    "note": "Recent posts (Oct 2025 media feature, Jan/Feb 2025), specific guests, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 78,
+    "actionability": 72,
+    "note": "Rich detail but flags future-dated 2026 podcasts (likely fabricated), strong Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 68,
+    "actionability": 70,
+    "note": "May/June 2025 hooks (Kettenbach), solid grounded detail, decent tailored Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 88,
+    "actionability": 80,
+    "note": "Densest grounded detail (Glenn Vo episode Apr 2025), good hooks, sharp sibling/transition Qs"
+   }
+  }
+ },
+ "linkedin.com/in/mustafa-akay-090977218.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 78,
+    "actionability": 70,
+    "overall": 58,
+    "note": "detailed bio + cert posts, but mostly stale history; some dated activity hooks"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 45,
+    "actionability": 50,
+    "overall": 38,
+    "note": "correct person but thin, no recent intel, fairly generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 85,
+    "actionability": 75,
+    "overall": 62,
+    "note": "richest concrete detail (certs, email, connections), sharp tailored Qs, but no fresh posts"
+   }
+  }
+ },
+ "linkedin.com/in/nagalakshmikorukonda.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 72,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "rich recent-activity hooks (TriageAI, comeback posts) + sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 70,
+    "actionability": 68,
+    "note": "solid trajectory; ServiceNow security/Knowledge events as hooks but K2026 dates look speculative"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 82,
+    "actionability": 78,
+    "note": "very concrete LLM testing domains, sharp Qs, but little fresh time-relevant intel"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 45,
+    "actionability": 50,
+    "note": "vague headline 'Quality', stale data-analyst focus, generic gap Qs"
+   }
+  }
+ },
+ "linkedin.com/in/narendra-rahadian-putra-02174213b.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 55,
+    "actionability": 60,
+    "note": "Some dated post hooks (2024 Pejoy, Nov 2025 hiring), sparse activity noted, mix of stale and recent Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Dense grounded detail (Pepsodent, Pejoy, ranking post), sharp tailored Qs, but career history dominates"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 45,
+    "actionability": 45,
+    "note": "Accurate current role but thin; mostly generic boilerplate Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 82,
+    "note": "Fresh Aug 2025 IG hook + wetalkwecreate venture, concrete details, sharp current Qs"
+   }
+  }
+ },
+ "linkedin.com/in/nasir-khan-829bb9257.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 85,
+    "actionability": 84,
+    "note": "Very fresh hooks (2026 awards, AI cert, workshops) but some future-dated claims feel speculative"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "Solid grounded role/title (District Mgr, July 2025) + sharp pivot Qs; less recent post-level intel"
+   },
+   "perplexity": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "note": "Empty brief"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "note": "Empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/nathalia-saucedo-da-rosa-ba2176107.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 62,
+    "specificity": 78,
+    "actionability": 72,
+    "note": "Rich post history + company detail, but lists older title; Nov 2025 job-post hook is fresh-ish, mostly stale posts"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Detailed career trajectory with current title since June 2023; thorough but largely historical, recruiting hint adds some currency"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 65,
+    "actionability": 68,
+    "note": "Correct current title + promotion timeline; concise, market-angle Qs but fewer concrete hooks"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 60,
+    "actionability": 60,
+    "note": "Detailed history but lists outdated title as current; mostly stale, generic-ish Qs"
+   }
+  }
+ },
+ "linkedin.com/in/nat\u00e1lia-oliveira-52ba991a7.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 78,
+    "actionability": 75,
+    "overall": 71,
+    "note": "Recent Jan 2025 OpenToWork hook + named-partner angle, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 82,
+    "actionability": 78,
+    "overall": 71,
+    "note": "Specific post/legislation refs + fresh firm-website topics, strong Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 70,
+    "actionability": 68,
+    "overall": 56,
+    "note": "Solid grounded detail but mostly static bio, decent Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 68,
+    "actionability": 60,
+    "overall": 51,
+    "note": "Accurate dual-practice detail but stale, fewer/generic Qs"
+   }
+  }
+ },
+ "linkedin.com/in/neha-garg-a246513b.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 80,
+    "actionability": 88,
+    "note": "Fresh Lime hook + AI-interview tooling angle, very sharp Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 82,
+    "actionability": 80,
+    "note": "Solid career timeline + IPO roadshow hook, but IPO claim risky/unverified"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 55,
+    "actionability": 62,
+    "note": "Correct current role but thin detail, generic tech-stack Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Rich grounded Amazon project specifics, fresh Lime move, but mostly past-focused"
+   }
+  }
+ },
+ "linkedin.com/in/neivison-souza.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 62,
+    "specificity": 74,
+    "actionability": 78,
+    "notes": "",
+    "note": "Has Mosaic context + Arax\u00e1 hook but lists role as Reliability Engineer (mid-2024) \u2014 misses the July 2025 Coordenador promotion; some odd future dates (Jan 2026 post)"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 88,
+    "actionability": 88,
+    "overall": 86,
+    "note": "Nails current Coordenador role at Arax\u00e1 since July 2025, full trajectory (Vale, AMG), fresh restructuring context, sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 68,
+    "actionability": 72,
+    "overall": 70,
+    "note": "Correct current role + contact details but thin on recent events; solid grounded Qs though somewhat generic"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 82,
+    "specificity": 85,
+    "actionability": 85,
+    "overall": 84,
+    "note": "Correct current Arax\u00e1 role, strong Cajati detail, fresh idling/Q1 financials hook, sharp tailored Qs"
+   }
+  }
+ },
+ "linkedin.com/in/nimrat-k-191a6b25a.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 82,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Oct/Aug 2025 posts + KaaryaNeeti hook, very current and concrete"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 78,
+    "actionability": 65,
+    "overall": 56,
+    "note": "rich research/publication detail but mostly 2023-24 stale, less current"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "linkup_overall": 82
+  }
+ },
+ "linkedin.com/in/o-i-88b34589.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 82,
+    "actionability": 80,
+    "note": "Rich recent cert timeline + OpenToWork hook + sharp tailored Qs; some 2026 dates need a sanity check"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 60,
+    "actionability": 55,
+    "overall": 47,
+    "note": "Solid grounded detail but mostly 2022 history; Qs decent but past-focused"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 28,
+    "specificity": 58,
+    "actionability": 52,
+    "overall": 45,
+    "note": "Accurate profile facts but stale 2022 role focus; generic career-walkthrough Qs"
+   },
+   "linkup_overall": 80
+  }
+ },
+ "linkedin.com/in/obaltzer.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 58,
+    "specificity": 78,
+    "actionability": 75,
+    "note": "Solid detail + fresh Verisk/Anthropic Claude MCP hook for a sharp Q; own posts stale (2022)"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 82,
+    "actionability": 62,
+    "note": "Deep grounded bio/academic detail but all historical; no recent company hook, Qs lean backward"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 32,
+    "specificity": 55,
+    "actionability": 55,
+    "note": "Accurate but vague/generic, Qs could be asked of anyone; little fresh intel"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 72,
+    "specificity": 80,
+    "actionability": 82,
+    "note": "Fresh Synergy Studio + Tropical Cyclone hooks and sharp tailored Qs; but Q1 2026 financials look fabricated/future-dated"
+   }
+  }
+ },
+ "linkedin.com/in/pbvandernat.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 92,
+    "specificity": 90,
+    "actionability": 93,
+    "note": "Very fresh 2026 Singapore posts with dated hooks + sharp tailored Qs; some 2026 dates may be future but rich"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Detailed and grounded but skews 2022-2024; solid Qs, less time-relevant today"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 82,
+    "specificity": 88,
+    "actionability": 85,
+    "note": "Fresh Jan 2026 Singapore sabbatical + concrete detail and sharp Qs; strong all-around"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 82,
+    "actionability": 72,
+    "note": "Dense grounded detail but mostly older history, no recent hooks; decent but generic-leaning Qs"
+   }
+  }
+ },
+ "linkedin.com/in/peter-isler-580212130.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 88,
+    "actionability": 85,
+    "overall": 83,
+    "note": "Rich current mandates + 2026 events; some future-dated claims to verify but very actionable hooks"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 72,
+    "actionability": 68,
+    "overall": 64,
+    "note": "Good event list (2025/2026 breakfasts, ART) but heavy on old career history; Qs decent"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 60,
+    "actionability": 50,
+    "overall": 46,
+    "note": "Solid bio detail but mostly static, no fresh hooks; generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 58,
+    "actionability": 52,
+    "overall": 44,
+    "note": "Accurate static profile, headline hook is nice but no recent intel; Qs mostly generic"
+   }
+  }
+ },
+ "linkedin.com/in/petr-skoda-a6719811.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 35,
+    "actionability": 40,
+    "overall": 35,
+    "note": "2021 OpenToWork hook is somewhat current-ish but stale; thin detail, decent driverless Q"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 80,
+    "actionability": 65,
+    "overall": 53,
+    "note": "rich career detail but all historical; solid tailored Qs, little fresh hook"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 15,
+    "specificity": 40,
+    "actionability": 35,
+    "overall": 29,
+    "note": "explicitly found no recent activity; generic Qs, sparse detail"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 88,
+    "actionability": 75,
+    "overall": 60,
+    "note": "densest grounded detail (funding, partners, MTBF, markets) and sharp Qs but no fresh post"
+   }
+  }
+ },
+ "linkedin.com/in/prashant-mehra-890607103.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 78,
+    "actionability": 80,
+    "notes": "",
+    "note": "Fresh cert hook (Jan 2026) + humor angle; sharp Qs, but missed the 'Ex-Duco' departure others caught"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 82,
+    "actionability": 85,
+    "note": "Caught the recent Duco departure (Ex-Duco, Feb 2026) + detailed role history; sharp transition-focused Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Current 'Ex-Duco' headline with full skill stack + dates; strong grounded detail and tailored Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 88,
+    "actionability": 75,
+    "note": "Richest project detail (Auxi bot, NZ store go-live) but stale \u2014 shows him still at Duco in Fiji, missed the departure"
+   }
+  }
+ },
+ "linkedin.com/in/priyashaghosh.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 78,
+    "actionability": 72,
+    "notes": "",
+    "note": "Rich detail, certs and courses, but career date drifts; possible namesake URL mismatch, decent Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 45,
+    "actionability": 45,
+    "note": "Thin but accurate; generic project Qs, little fresh hook"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 60,
+    "actionability": 62,
+    "note": "Matches target URL; cert date Jan 2026 looks fabricated, sharp AI-tool Q"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Detailed Capgemini history + headline note, mostly stale but grounded, good transition Qs"
+   }
+  }
+ },
+ "linkedin.com/in/rani-r-239337129.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 70,
+    "actionability": 60,
+    "overall": 50,
+    "note": "Detailed 2022 cert/intern history but all stale; decent tailored Qs"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 15,
+    "specificity": 30,
+    "actionability": 35,
+    "overall": 25,
+    "note": "Only location + follower counts; thin and generic Qs"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/richard-lawson-192409154.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 70,
+    "actionability": 68,
+    "note": "Solid detail but hooks are 2021-2022 posts, now stale; decent tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 38,
+    "specificity": 75,
+    "actionability": 70,
+    "note": "Rich career detail + PPWR/filtration hooks but mostly stale history; good Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 35,
+    "actionability": 40,
+    "note": "Thin, vague, follower counts; generic boilerplate questions"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 65,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Fresh 2024 saveBOARD recycling map + Recart tuna launch + award; sharp current Qs"
+   }
+  }
+ },
+ "linkedin.com/in/richard-merrill.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 62,
+    "specificity": 58,
+    "actionability": 68,
+    "note": "Fresh Levifi role + personal hooks, but Seahawks SB claim looks fabricated"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 72,
+    "actionability": 70,
+    "note": "Rich career detail but mostly stale history; good transition Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 60,
+    "actionability": 62,
+    "note": "Solid recent role facts, clean but thin; standard transition Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 88,
+    "note": "ENX article, branch expansion, Charleston/Pooler hooks \u2014 sharp tailored Qs"
+   }
+  }
+ },
+ "linkedin.com/in/riyadh-mozaharul-867a15125.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 88,
+    "specificity": 85,
+    "actionability": 90,
+    "note": "Many recent dated posts (Dec 2025-June 2026) with sharp post-specific Qs; some future dates but strong hooks"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 80,
+    "actionability": 65,
+    "note": "Detailed career history but mostly stale; Qs solid but less time-relevant"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 78,
+    "actionability": 60,
+    "note": "Concrete technical detail (HPLC, analytes) but static; Qs decent but generic-ish"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 82,
+    "actionability": 78,
+    "note": "Rich technical specifics (Perten instruments) plus timely controversy hook; mostly grounded, varied Qs"
+   }
+  }
+ },
+ "linkedin.com/in/ron-krueger-56a2a227.": {
+  "name": "CRG",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 20,
+    "specificity": 55,
+    "actionability": 45,
+    "overall": 40,
+    "note": "Only stale 2017 post content; Qs tied to old posts feel dated"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 80,
+    "actionability": 70,
+    "overall": 61,
+    "note": "Rich grounded detail + sharp Qs, but mostly career history not current events"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 60,
+    "actionability": 68,
+    "overall": 56,
+    "note": "Good <10-day-listing hook + solid Qs, decent but less dense"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 78,
+    "actionability": 72,
+    "overall": 64,
+    "note": "Densest detail + contact info + a concrete current listing hook; note future-dated June 2026 listing is suspect"
+   }
+  }
+ },
+ "linkedin.com/in/ronald-guillaume-3a559196.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 70,
+    "actionability": 65,
+    "note": "Specific 2016-2019 post hooks but all stale; decent Qs reference real posts"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 88,
+    "actionability": 70,
+    "note": "Very rich career + pricing detail, 2019-2020 guestbook the freshest; mostly historical"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 80,
+    "actionability": 60,
+    "note": "Strong registry/SIRET detail, son of Elie Guillaume; little recent activity"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 38,
+    "specificity": 78,
+    "actionability": 68,
+    "note": "Concrete tours, locations, YouTube channel; forward-looking Qs but no dated-recent intel"
+   }
+  }
+ },
+ "linkedin.com/in/sala-uddin-8203a61a3.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 35,
+    "actionability": 40,
+    "overall": 32,
+    "note": "stale 2020-21 posts, missed current AGM role, decent China/construction hooks"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 80,
+    "actionability": 78,
+    "overall": 71,
+    "note": "current AGM role + interpreter detail, sharp tailored Qs, little truly recent news"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 88,
+    "actionability": 82,
+    "overall": 77,
+    "note": "current role + 2024 parent financials + reform context, sharpest grounded Qs"
+   }
+  }
+ },
+ "linkedin.com/in/samgrabon.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 80,
+    "actionability": 82,
+    "note": "fresh Tritech role + rich Frontier Audio hooks (EC1, Reagan post), sharp Qs but some prior-role focus"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 84,
+    "note": "detailed current Tritech intel (CEO transition, OSC26, data center blog), notes Chicago/Orlando discrepancy, sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 68,
+    "specificity": 62,
+    "actionability": 70,
+    "note": "current role + headline confirmed, GEAPS show hook, but vaguer and some unfilled gaps"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 82,
+    "specificity": 88,
+    "actionability": 85,
+    "note": "most grounded: confirms Chicago location, booth numbers, colleague names, OSC26+GEAPS dates, sharp specific Qs"
+   }
+  }
+ },
+ "linkedin.com/in/soroush-bahrami.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 90,
+    "specificity": 92,
+    "actionability": 88,
+    "note": "Nov 2025 hackathon win + Macro Munch startup hook, very fresh & specific Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "good detailed dual-track timeline but mostly 2024-25 history, less recent"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 55,
+    "actionability": 55,
+    "note": "accurate but thin, leans on 2023 portfolio, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 70,
+    "actionability": 60,
+    "note": "cert-heavy stale detail, no recent hooks, decent but dated Qs"
+   }
+  }
+ },
+ "linkedin.com/in/sumit-shankar-854b2816.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 85,
+    "specificity": 78,
+    "actionability": 82,
+    "note": "Fresh 2026 hooks (new CEO, peer moves) + sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Detailed career + FY26 financials, but mostly career history; solid Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 45,
+    "actionability": 40,
+    "note": "Thin, mostly static bio with generic boilerplate Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 80,
+    "note": "Fresh 2025/26 rebrand+stake details, Low Carbon Day, dense grounded facts, sharp Qs"
+   }
+  }
+ },
+ "linkedin.com/in/susanna-kuusisto-ba4439253.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 72,
+    "actionability": 60,
+    "overall": 55,
+    "note": "Detailed but anchored to 2022 posts; questions hedge on whether she enrolled (she did)"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 72,
+    "specificity": 85,
+    "actionability": 82,
+    "overall": 80,
+    "note": "Current 2024-2027 Tampere Uni training, training-clients, dog-in-nature hooks; sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 50,
+    "specificity": 68,
+    "actionability": 60,
+    "overall": 59,
+    "note": "Solid service detail + Nuotti angle, but vaguer on training timeline; decent Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 88,
+    "actionability": 78,
+    "overall": 75,
+    "note": "Richest detail incl 2024 training + Vaasa history; some stale career bulk but strong grounded Qs"
+   }
+  }
+ },
+ "linkedin.com/in/tahina-botton-5837b02b6.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 90,
+    "specificity": 92,
+    "actionability": 90,
+    "note": "Dense recent events (Apr-Jun 2026) with sharp event-anchored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Adds MEL dual-role + RN text angle; fresh upcoming events, tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 60,
+    "actionability": 50,
+    "note": "Accurate portfolio + contact info but static, generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 80,
+    "actionability": 80,
+    "note": "MRAP president + RMC interview hooks, recent events, solid tailored Qs"
+   }
+  }
+ },
+ "linkedin.com/in/tehila-olaniyan.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 78,
+    "actionability": 75,
+    "note": "Rich detail with Feb 2026 hooks, but some future-dated claims and unverified GVK role risk fabrication"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "Empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 60,
+    "actionability": 50,
+    "overall": 43,
+    "note": "Solid student details, flags GVK mismatch, but mostly static bio and GVK-anchored Qs may misfire"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 62,
+    "actionability": 48,
+    "overall": 44,
+    "note": "Good namesake disambiguation (Jide vs Tehila), but stale bio and GVK link unconfirmed"
+   }
+  }
+ },
+ "linkedin.com/in/tiagomtdias.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 68,
+    "actionability": 70,
+    "overall": 63,
+    "note": "detailed profile, recent EDS/Geyser hooks, but some future-dated claims (2026) look fabricated"
+   },
+   "parallel": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   }
+  }
+ },
+ "linkedin.com/in/vicente-cardenas-cravioto-828935.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 90,
+    "specificity": 88,
+    "actionability": 90,
+    "note": "Tons of dated recent posts (Dec 2025-June 2026), specific store/event hooks, sharp tailored Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 85,
+    "actionability": 78,
+    "note": "Verified title + rich career detail; some 2025/2026 hooks but heavy on stale history, solid Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 60,
+    "specificity": 60,
+    "actionability": 60,
+    "note": "Confirms title, one fresh June 2026 contact note, but thin and somewhat generic Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 40,
+    "specificity": 80,
+    "actionability": 70,
+    "note": "Detailed career/bio but mostly static; little time-relevant intel, Qs lean historical"
+   }
+  }
+ },
+ "linkedin.com/in/vivienmahe.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 92,
+    "specificity": 90,
+    "actionability": 88,
+    "note": "Snappit Dec 22 ship + Dec 17 pricing hooks, very fresh & specific, sharp Qs"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 88,
+    "actionability": 85,
+    "note": "Concrete numbers ($1,400, 2,500 dls, MCP), Oct freshness, strong tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 68,
+    "specificity": 80,
+    "actionability": 78,
+    "note": "Solid launch detail but mostly Jun-Sep, less recent; good Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 62,
+    "actionability": 60,
+    "note": "Thinner, affiliate-program focus from Aug, some generic Qs"
+   }
+  }
+ },
+ "linkedin.com/in/waldrop-rick-95161813.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 10,
+    "specificity": 35,
+    "actionability": 45,
+    "overall": 28,
+    "note": "only 2015 posts, all stale; Emerson hook is personal but ancient"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 70,
+    "actionability": 60,
+    "overall": 52,
+    "note": "rich career detail but company facts dated 2026 look fabricated/future; CEO name conflicts with parallel"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 55,
+    "actionability": 65,
+    "overall": 47,
+    "note": "clean grounded basics, SE Regional route hook, solid tailored Qs but little fresh"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 30,
+    "specificity": 75,
+    "actionability": 70,
+    "overall": 57,
+    "note": "concrete CFI acquisition + profile quote, sharp tailored Qs; some HTLD facts dated but grounded"
+   }
+  }
+ },
+ "linkedin.com/in/wayne-terronez-pmp-16879174.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 0,
+    "specificity": 0,
+    "actionability": 0,
+    "overall": 0,
+    "note": "empty brief"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 55,
+    "specificity": 62,
+    "actionability": 70,
+    "overall": 62,
+    "note": "good recent hooks but Jan 2026 launch date looks fabricated/future-dated; misses current USCIS role"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 78,
+    "specificity": 85,
+    "actionability": 82,
+    "overall": 81,
+    "note": "richest detail incl current USCIS role, MCA 2026 partnership, sharp tailored Qs; Sept 2025 launch credible"
+   }
+  }
+ },
+ "linkedin.com/in/william-m-wang.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 72,
+    "specificity": 85,
+    "actionability": 82,
+    "note": "Fresh March 2025 hiring post + specific posts (A/B testing, Chinatown), sharp Qs; some EMNLP refs feel tangential"
+   },
+   "exa": {
+    "right_person": false,
+    "freshness": 30,
+    "specificity": 70,
+    "actionability": 40,
+    "note": "Likely namesake: Software Engineer at TikTok Bellevue, contradicts Data Analyst/LA trajectory in other briefs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 25,
+    "specificity": 30,
+    "actionability": 35,
+    "note": "Just title+division, no recent activity, generic USDS Qs"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 80,
+    "specificity": 88,
+    "actionability": 88,
+    "note": "Jan 2025 role change to US Legal Data Lead + detailed trajectory, very sharp tailored Qs"
+   }
+  }
+ },
+ "linkedin.com/in/yasminafont.": {
+  "name": "",
+  "judge": {
+   "linkup": {
+    "right_person": true,
+    "freshness": 35,
+    "specificity": 80,
+    "actionability": 55,
+    "overall": 56,
+    "note": "rich detail but mostly 2020-2022 export/COVID history; current role unclear, Qs lean retrospective"
+   },
+   "exa": {
+    "right_person": true,
+    "freshness": 70,
+    "specificity": 85,
+    "actionability": 80,
+    "overall": 79,
+    "note": "clear current PM role + fresh 2025 M\u00e9tiers d'Art brand hook + sharp tailored Qs"
+   },
+   "perplexity": {
+    "right_person": true,
+    "freshness": 45,
+    "specificity": 45,
+    "actionability": 50,
+    "overall": 47,
+    "note": "correct role but thin notes, generic Qs, little fresh hook"
+   },
+   "parallel": {
+    "right_person": true,
+    "freshness": 75,
+    "specificity": 78,
+    "actionability": 78,
+    "overall": 77,
+    "note": "current role + very fresh June 2026 AI-for-artisans hook, solid tailored Qs; minor founding-year error"
+   }
+  }
+ }
+}

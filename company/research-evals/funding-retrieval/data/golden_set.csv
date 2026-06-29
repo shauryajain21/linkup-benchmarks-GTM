@@ -1,0 +1,94 @@
+num,company,hq,founded,golden,linkup,exa,perplexity,parallel
+1,Altano Energy,"Madrid, Madrid, Spain",2021,$71M,$70M,$153M,$60M,$261M
+2,Apricus Generation,"Boca Raton, Florida, United States",2023,$28M,$28M,$130M,$130M,$1.13B
+3,Aurascape,"Santa Clara, California, United States",2024,$63M,$63M,$89M,$0M,$50M
+4,Ayan,"London, England, United Kingdom",2023,$4M,$29M,$39M,$7M,$36M
+5,BackOps AI,"San Francisco, California, United States",2024,$37M,$36M,$36M,$34M,$34M
+6,Basis,"New York, New York, United States",2023,$138M,$138M,$138M,$138M,$196M
+7,Baya Systems,"Santa Clara, California, United States",2023,$36M,$36M,$47M,$36M,$47M
+8,BlackWall,"Tallinn, Harjumaa, Estonia",2019,$63M,$63M,$63M,$57M,$63M
+9,Brandlight,"New York, New York, United States",2024,$36M,$36M,$36M,$36M,$36M
+10,Bridgetown Research,"Seattle, Washington, United States",2023,$19M,$19M,$24M,$38M,$19M
+11,C1 Green Chemicals,"Berlin, Berlin, Germany",2022,$22M,$26M,$27M,$28M,$28M
+12,Cartesia,"San Francisco, California, United States",2023,$91M,$191M,$191M,$100M,$191M
+13,Chariot Defense,"South San Francisco, California, United States",2024,$42M,$42M,$42M,$41M,$41M
+14,Circuit,"Austin, Texas, United States",2024,$30M,$45M,$70M,$30M,$30M
+15,Console,"San Francisco, California, United States",2024,$29M,$29M,$30M,$29M,$29M
+16,Corintis,"Lausanne, Vaud, Switzerland",2022,$53M,$53M,$58M,$58M,$58M
+17,Cosmon,"San Francisco, California, United States",2025,$31M,$31M,$31M,$31M,$31M
+18,Daisy,"Costa Mesa, California, United States",2023,$33M,$42M,$35M,$35M,$35M
+19,Datacurve,"San Francisco, California, United States",2024,$18M,$18M,$18M,$18M,$18M
+20,DeepUll,"Barcelona, Catalonia, Spain",2019,$92M,$113M,$113M,$113M,$99M
+21,Dify.AI,"Sunnyvale, California, United States",2023,$38M,$38M,$42M,$38M,$38M
+22,Edurino,"Munich, Bayern, Germany",2021,$34M,$38M,$41M,$28M,$38M
+23,Eranovum,"Madrid, Madrid, Spain",2019,$28M,$28M,$36M,$138700.00B,$139M
+24,Eridu,"Saratoga, California, United States",2024,$200M,$230M,$230M,$200M,$230M
+25,FYLD,"London, England, United Kingdom",2020,$88M,$88M,$79M,$80M,$143M
+26,Fable,"San Francisco, California, United States",2024,$31M,$86M,$12M,$31M,$31M
+27,Finary,"Paris, Ile-de-France, France",2020,$44M,$45M,$45M,$42M,$48M
+28,Flink,"Berlin, Berlin, Germany",2020,$1.50B,$1.43B,$1.53B,$1.53B,$1.57B
+29,Fortuna Health,"New York, New York, United States",2023,$22M,$22M,$22M,$22M,$22M
+30,Fractile,"London, England, United Kingdom",2022,$257M,$258M,$266M,$0M,$266M
+31,Frontera Health,"Denver, Colorado, United States",2023,$32M,$42M,$42M,$32M,$42M
+32,Genomines,"Paris, Ile-de-France, France",2021,$50M,$62M,$62M,$50M,$50M
+33,Grand Slam Track,"Playa Del Rey, California, United States",2024,$30M,$30M,$30M,$18M,$13M
+34,GravitHy,"Marseille, Provence-Alpes-Cote d'Azur, France",2022,$64M,$64M,$65M,$64M,$65M
+35,Gray Swan,"Pittsburgh, Pennsylvania, United States",2023,$40M,$40M,$40M,$50M,$50M
+36,HavocAI,"Providence, Rhode Island, United States",2024,$197M,$100M,$285M,$100M,$197M
+37,Heat2Power,"Ann Arbor, Michigan, United States",2024,$18M,$18M,$15M,$3M,$15M
+38,HolaCamp,"Barcelona, Catalonia, Spain",2023,$11M,$11M,$33M,—,$35M
+39,Holyvolt,"Stockholm, Stockholms Lan, Sweden",2022,$35M,$42M,$25M,$18M,$42M
+40,Inversion,"New York, New York, United States",2024,$26M,$26M,$26M,$81M,$54M
+41,JAAQ,"London, England, United Kingdom",2021,$17M,$17M,$17M,$34M,$17M
+42,LIS Technologies,"New York, New York, United States",2023,$71M,$65M,$72M,$64M,$72M
+43,Lettuce Financial,"San Francisco, California, United States",2023,$58M,$52M,$49M,$46M,$52M
+44,Luel,"San Francisco, California, United States",2025,$32M,$32M,$31M,$31M,$32M
+45,MagREEsource,"Grenoble, Rhone-Alpes, France",2020,$32M,$32M,$55M,$0M,$32M
+46,MainFunc,"Palo Alto, California, United States",2023,$554M,$275M,$625M,$160M,$625M
+47,Maki,"Paris, Ile-de-France, France",2021,$39M,$35M,$35M,$29M,$39M
+48,Mercanis,"Berlin, Berlin, Germany",2020,$30M,$30M,$30M,$30M,$30M
+49,Monarch Quantum,"San Diego, California, United States",2025,$55M,$76M,$76M,$0M,$115M
+50,Multifactor,"San Francisco, California, United States",2025,$15M,$15M,$15M,$0M,$16M
+51,Multiverse Computing,"Donostia-san Sebastián, Pais Vasco, Spain",2019,$342M,$359M,$351M,$219M,$359M
+52,NORNORM,"Copenhagen, Hovedstaden, Denmark",2020,$116M,$118M,$174M,$160M,$118M
+53,Naboo,"Paris, Ile-de-France, France",2021,$101M,$99M,$102M,$107M,$107M
+54,Nelly,"Berlin, Berlin, Germany",2021,$72M,$72M,$287M,$50M,$181M
+55,Neumirna Therapeutics,"Copenhagen, Hovedstaden, Denmark",2020,$21M,$26M,$24M,$24M,$21M
+56,Nominal,"New York, New York, United States",2023,$29M,$182M,$155M,—,$182M
+57,Northwood Space,"Torrance, California, United States",2023,$161M,$142M,$136M,$137M,$136M
+58,NuCube Energy,"Idaho Falls, Idaho, United States",2023,$16M,$13M,$16M,$13M,$13M
+59,Pace,"New York, New York, United States",2024,$56M,$56M,$65M,$84M,$56M
+60,Pelico,"Paris, Ile-de-France, France",2019,$72M,$63M,$72M,$72M,$72M
+61,Phagos,"Paris, Ile-de-France, France",2021,$32M,$32M,$35M,$27M,$25M
+62,Pinnacle Medicines,"Doylestown, Pennsylvania, United States",2024,$90M,$134M,$134M,$134M,$134M
+63,Presto,"Oakland, California, United States",2023,$15M,$15M,$15M,$124M,$190M
+64,Prime Intellect,"San Francisco, California, United States",2024,$70M,$70M,$70M,$0M,$70M
+65,Promptfoo,"San Francisco, California, United States",2024,$23M,$23M,$23M,$23M,$23M
+66,Quantix EdgeS,"Murcia, Murcia, Spain",2024,$23M,$22M,$20M,$21M,$21900.00B
+67,RIFT,"Eindhoven, Noord-Brabant, The Netherlands",2020,$111M,$138M,$146M,$0M,$132M
+68,Remittix,"New York, New York, United States",2024,$28M,$30M,$68M,$30M,$30M
+69,Rerun,"Stockholm, Stockholms Lan, Sweden",2022,$20M,$20M,$20M,$20M,$20M
+70,RevEng,"London, England, United Kingdom",2022,$19M,$20M,$21M,$0M,$20M
+71,Rivan Industries,"Lewisham, Lewisham, United Kingdom",2022,$47M,$48M,$47M,$46M,$46M
+72,SWEBAL,"Stockholm, Stockholms Lan, Sweden",2024,$39M,$35M,$35M,$34M,$33M
+73,SafetyKit,"San Francisco, California, United States",2023,$32M,$27M,$30M,$27M,$27M
+74,Salient,"San Francisco, California, United States",2023,$60M,$60M,$60M,$70M,$60M
+75,Saltz,"Vilnius, Vilniaus Apskritis, Lithuania",2022,$26M,$26M,$26M,—,$27M
+76,Saturn AI,"London, England, United Kingdom",2023,$18M,$18M,$15M,$0M,$15M
+77,Seedli Capital,"Flushing, New York, United States",2025,$20M,$20M,$20M,$20M,$20M
+78,Sifflet,"Paris, Ile-de-France, France",2021,$36M,$18M,$36M,$18M,$54M
+79,Silverflow,"Amsterdam, Noord-Holland, The Netherlands",2019,$76M,$76M,$77M,$0M,$76M
+80,Slate Medicines,"Raleigh, North Carolina, United States",2025,$130M,$130M,$130M,—,$130M
+81,Sparta,"Geneva, Geneve, Switzerland",2020,$66M,$120M,$72M,$26M,$48M
+82,Starbridge,"New York, New York, United States",2023,$52M,$52M,$54M,$52M,$52M
+83,Steady Energy,"Helsinki, Southern Finland, Finland",2023,$48M,$74M,$53M,$50M,$74M
+84,Subbyx,"Milan, Lombardia, Italy",2023,$56M,$62M,$63M,$35M,$54M
+85,TRIVER,"London, England, United Kingdom",2022,$28M,$31M,$143M,—,$31M
+86,The Icon League,"Cologne, Nordrhein-Westfalen, Germany",2023,$17M,$15M,$15M,$17M,$17M
+87,Tytan Technologies,"Munich, Bayern, Germany",2023,$52M,$54M,$46M,—,$50M
+88,Upway,"Gennevilliers, Ile-de-France, France",2021,$121M,$125M,$125M,$120M,$125M
+89,Variance,"San Francisco, California, United States",2023,$25M,$26M,$27M,$26M,$27M
+90,Ventaris Surgical,"San Carlos, California, United States",2024,$31M,$31M,$30M,$30M,$30M
+91,Via Sana,"Paris, Ile-de-France, France",2020,$25M,$6M,$18M,$0M,$6M
+92,Vivici,"Delft, Zuid-Holland, The Netherlands",2022,$34M,$34M,$49M,$46M,$34M
+93,Warp,"New York, New York, United States",2023,$24M,$73M,$73M,$88M,$75M

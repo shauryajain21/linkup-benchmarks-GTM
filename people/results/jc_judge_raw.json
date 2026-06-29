@@ -1,0 +1,1427 @@
+{
+ "ahmad alkhateeb": {
+  "name": "Ahmad Alkhateeb",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Rasia"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned Ala'a Alkhateeb namesake"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no matching profile"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported previous company Rasia, missed new role"
+   }
+  }
+ },
+ "aju rajiv": {
+  "name": "Aju Rajiv",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Bank of New York = BNY, Analyst, caught move"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported CUSAT placement role, not BNY"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Reported student status, no current company"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported MBA student, missed BNY move"
+   }
+  }
+ },
+ "aparna balakrishnan": {
+  "name": "Aparna Balakrishnan",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company Tradepass and change captured"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous role at Breeze"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Mars/Uber match neither company"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Breeze role, missed change"
+   }
+  }
+ },
+ "benjamin katz": {
+  "name": "Benjamin Katz",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Embry-Riddle role"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Caught NASA Europa ICONS move"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, empty results"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No information found"
+   }
+  }
+ },
+ "bess balhuizen": {
+  "name": "Bess Balhuizen",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company and title"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "New company caught, title variant"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No details extracted"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company BCG"
+   }
+  }
+ },
+ "brayden martin": {
+  "name": "Brayden Martin",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new Self-Employed Health Advisor role"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Socket Fiber, matching neither new nor verified role"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no matching profile found"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No information available"
+   }
+  }
+ },
+ "brian saab": {
+  "name": "Brian Saab",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported new role at National Bank of Canada"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned KEBABERIE owner, a namesake"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, found only Seattle executives"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Second Cup barista role"
+   }
+  }
+ },
+ "brooke danielsen": {
+  "name": "Brooke Danielsen",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new Senior Account Executive role starting Jun 2026"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported older 2022 role, missed promotion"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported older 2022 role, asserted no change"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported previous Sales Executive title, missed promotion"
+   }
+  }
+ },
+ "carlos cpcc": {
+  "name": "Carlos Cpcc",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company Clarity Latam Consulting"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Novonesis"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Said still at Novonesis, no change"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Novonesis, older move"
+   }
+  }
+ },
+ "charles ellis": {
+  "name": "Charles Ellis",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": false,
+    "note": "Correct new company Catalent but job_changed false"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": true,
+    "note": "Reported unrelated pool restoration business"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Namesake at Lonza, neither new nor previous"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": true,
+    "note": "Reported Lonza, not the correct new company"
+   }
+  }
+ },
+ "chris jackson": {
+  "name": "Chris Jackson",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company and role correctly"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Hometown Music"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no match found"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Hometown Music"
+   }
+  }
+ },
+ "david iddamalgoda": {
+  "name": "David Iddamalgoda",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported new CFO role at EMM"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Rouse role, missed change"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Rouse, found=false, wrong previous company BlackRock"
+   },
+   "parallel": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported move to EMM"
+   }
+  }
+ },
+ "david mendez": {
+  "name": "David Mendez",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": false,
+    "note": "Reported new Staff SE title, but job_changed false"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old Senior SE title"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, only namesakes"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Nothing found"
+   }
+  }
+ },
+ "eleonor fransson": {
+  "name": "Eleonor Fransson",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old Tf Prorektor title, missed promotion to permanent"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported board substitute roles, not the prorektor appointment"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained"
+   },
+   "parallel": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Caught appointment to Prorektor (EVP) effective mid-2026"
+   }
+  }
+ },
+ "eliezer ribeiro": {
+  "name": "Eliezer Ribeiro",
+  "judge": {
+   "linkup": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no match"
+   },
+   "exa": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No unique profile matched"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Nelogica software dev, namesake not the new role"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported previous company as current"
+   }
+  }
+ },
+ "elise gelardon": {
+  "name": "Elise Gelardon",
+  "judge": {
+   "linkup": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Clinique du Droit de Rennes, matches neither new nor previous"
+   },
+   "exa": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no info found"
+   },
+   "perplexity": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported QUADRIGE AVOCATS as new role"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Super U, matches neither new nor previous role"
+   }
+  }
+ },
+ "erik scovin": {
+  "name": "Erik Scovin",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported move to Cisco"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Air Methods role"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Still on Air Methods, missed Cisco"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Still on Air Methods, missed Cisco"
+   }
+  }
+ },
+ "françois rochon": {
+  "name": "François Rochon",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported move to Tetra Tech"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Béton Provincial"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, found namesake"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No current company info"
+   }
+  }
+ },
+ "gabriella amico": {
+  "name": "Gabriella Amico",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous EssilorLuxottica role"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous EssilorLuxottica role"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, only found namesakes"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Still at EssilorLuxottica, missed move"
+   }
+  }
+ },
+ "georgina van reeken": {
+  "name": "Georgina Van Reeken",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new title Associate Financial Regulation"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported administrative law role, missed change"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no current company"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old Associate Administrative Law role"
+   }
+  }
+ },
+ "hakan arslan": {
+  "name": "Hakan Arslan",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company and move correctly"
+   },
+   "exa": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, only previous company noted"
+   },
+   "perplexity": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "New company matched despite transliteration noise"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported Ülker as current, missed move"
+   }
+  }
+ },
+ "hanine bounecer": {
+  "name": "Hanine Bounecer",
+  "judge": {
+   "linkup": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, found nothing"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported wrong new lab, not biochimie"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported pharmacie galenique, not biochimie"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": true,
+    "note": "Different companies entirely"
+   }
+  }
+ },
+ "ibrahim k": {
+  "name": "Ibrahim K",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Kanaech, missed move to Dustman"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Kanaech, missed move to Dustman"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned Google marketing manager, namesake"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No current company info provided"
+   }
+  }
+ },
+ "ines herrmann": {
+  "name": "Ines Herrmann",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new VINCI Energies role"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Still shows Hemsley Fraser"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no profile data"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reports Hemsley Fraser as current"
+   }
+  }
+ },
+ "j early": {
+  "name": "J Early",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new VP role at Walters State"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported prior ETSU role, missed new move"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported ETSU, denied recent change"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported ETSU with old 2019 move"
+   }
+  }
+ },
+ "jaap blok": {
+  "name": "Jaap Blok",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": false,
+    "note": "Reported new title/company correctly but job_changed false"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned a mediator namesake"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Young Professional role"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old role, missed new ML Engineer title"
+   }
+  }
+ },
+ "jeffray raj": {
+  "name": "Jeffray Raj",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": false,
+    "note": "Reported new title and start date; same company"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous title Senior System Engineer"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous title Senior System Engineer"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No current company found"
+   }
+  }
+ },
+ "joão carvalho": {
+  "name": "João Carvalho",
+  "judge": {
+   "linkup": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported military battalion role, neither new nor previous"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous HUG company, missed move to Ville de Genève"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Found HUG, missed change to Ville de Genève"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no info found"
+   }
+  }
+ },
+ "kai wakura": {
+  "name": "Kai Wakura",
+  "judge": {
+   "linkup": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "abstained"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "reported old intern title, missed promotion"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "same company old title, no promotion detected"
+   },
+   "parallel": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "right company but wrong previous role"
+   }
+  }
+ },
+ "karin georges": {
+  "name": "Karin Georges",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company and start date"
+   },
+   "exa": {
+    "classification": "NOT_FOUND",
+    "detected_change": true,
+    "note": "Saw departure but no new company named"
+   },
+   "perplexity": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct company/title, wrong start date"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Oracle, missed move"
+   }
+  }
+ },
+ "kate glembocki": {
+  "name": "Kate Glembocki",
+  "judge": {
+   "linkup": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported NEWH/Kaitlyn Wolfe, neither new nor previous company"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": false,
+    "note": "Mentions Interiors Student Alliance but also still lists previous employer"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no profile match"
+   },
+   "parallel": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported move to Interiors Student Alliance"
+   }
+  }
+ },
+ "khushali jobalia": {
+  "name": "Khushali Jobalia",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new title GM, internal promotion noted"
+   },
+   "exa": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No profile found"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old Senior Business Consultant role"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Old role, missed promotion to GM"
+   }
+  }
+ },
+ "kyra bowman": {
+  "name": "Kyra Bowman",
+  "judge": {
+   "linkup": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported New Road Capital, matching neither new nor previous"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Envestpro"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no data"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Envestpro, no change detected"
+   }
+  }
+ },
+ "lara knechtel": {
+  "name": "Lara Knechtel",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported new company RIEDEL Immobilien"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported move to RIEDEL Immobilien"
+   },
+   "perplexity": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported new company and change"
+   },
+   "parallel": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company, start date unknown"
+   }
+  }
+ },
+ "lauren dorr": {
+  "name": "Lauren Dorr",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company and title"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported Lowe's, correct new role"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Reported student status, no new employer"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": true,
+    "note": "Reported Cintas, neither new nor previous company"
+   }
+  }
+ },
+ "maria patriota": {
+  "name": "Maria Patriota",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company and date"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company, slightly off date"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, found only namesakes"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported unrelated companies"
+   }
+  }
+ },
+ "med ayukebi": {
+  "name": "Med Ayukebi",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company University Hospitals"
+   },
+   "exa": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no profile found"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Empty results"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Biogen, matching neither company"
+   }
+  }
+ },
+ "nic p": {
+  "name": "Nic P",
+  "judge": {
+   "linkup": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "abstained"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "reported old Head of Sales title, missed COO promotion"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "found=false, no clear person info"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "reported old Head of Sales title, missed COO promotion"
+   }
+  }
+ },
+ "nimrat k": {
+  "name": "Nimrat K",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company and title"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Different individual at Seismic/Google"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Enactus Thapar, neither new nor previous"
+   }
+  }
+ },
+ "patricia manabat": {
+  "name": "Patricia Manabat",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company Human Nature"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Blaine Corporation"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no match found"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Blaine Corporation as current"
+   }
+  }
+ },
+ "rachael nkatta": {
+  "name": "Rachael Nkatta",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Patnergy, missed move to Candix"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Patnergy, not new Candix Engineering"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Still at Patnergy, missed Candix move"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Student at Covenant University, neither new nor accurate"
+   }
+  }
+ },
+ "rachel butler": {
+  "name": "Rachel Butler",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": false,
+    "note": "Reported new title at same company; didn't flag change"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous ASR Director role"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous ASR Director role"
+   }
+  }
+ },
+ "rachel stringer": {
+  "name": "Rachel Stringer",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company and change"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company, missed change"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, empty result"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No information found"
+   }
+  }
+ },
+ "salma bham": {
+  "name": "Salma Bham",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported University of Canberra move"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Curtin University role"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no current company"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": true,
+    "note": "Reported unrelated DR A BHAM LIMITED director"
+   }
+  }
+ },
+ "salomi solanki": {
+  "name": "Salomi Solanki",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported Rang Technologies move correctly"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Different person at Cleantech Industry Resources"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Kanan.co, denied change"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported Kanan.co, missed new role"
+   }
+  }
+ },
+ "sara ristic": {
+  "name": "Sara Ristic",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new WWTV Distribution role"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old hostess role at Del's"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained"
+   },
+   "parallel": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported Radio Laurier, matches neither"
+   }
+  }
+ },
+ "shraddha shinde": {
+  "name": "Shraddha Shinde",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company and change"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Suma Soft"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned Fujitsu namesake"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No current company found"
+   }
+  }
+ },
+ "siddharth s": {
+  "name": "Siddharth S",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new Deputy Manager role; internal promotion same company"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned Boeing/ENABL namesake, not the right person"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Assistant Manager title"
+   }
+  }
+ },
+ "subhankar banerjee": {
+  "name": "Subhankar Banerjee",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported RMRC, BARC move"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Different individual, unrelated companies"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no current company"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company HCG as current"
+   }
+  }
+ },
+ "taha khan": {
+  "name": "Taha Khan",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported ZMA Solutions move"
+   },
+   "exa": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Returned Huzaifa Khan at Valscode"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Could not identify the person"
+   },
+   "parallel": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "No current employer info found"
+   }
+  }
+ },
+ "taylor belanger": {
+  "name": "Taylor Belanger",
+  "judge": {
+   "linkup": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous CBIZ, missed Deloitte"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported CBIZ, not new Deloitte role"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported CBIZ, missed Deloitte move"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported CBIZ, missed Deloitte"
+   }
+  }
+ },
+ "teo azzollini": {
+  "name": "Teo Azzollini",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new Senior Solutions Manager title at Harbour + SuperDoc"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Senior Customer Success Manager title"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Senior Customer Success Manager title"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous Senior Customer Success Manager title"
+   }
+  }
+ },
+ "tina kinsley": {
+  "name": "Tina Kinsley",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company and start date"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company, wrong start date"
+   },
+   "perplexity": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company despite confused narrative"
+   },
+   "parallel": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correct new company, no start date"
+   }
+  }
+ },
+ "trinika johnson": {
+  "name": "Trinika Johnson",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported new company and role"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Bank OZK"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Confused; reported Bank OZK as current"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company Bank OZK"
+   }
+  }
+ },
+ "tyson koch": {
+  "name": "Tyson Koch",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company and change"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company, missed change"
+   },
+   "perplexity": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company, no change detected"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported previous company as current"
+   }
+  }
+ },
+ "yazbeth olvera": {
+  "name": "Yazbeth Olvera",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Correctly reported Kiewit move"
+   },
+   "exa": {
+    "classification": "STALE",
+    "detected_change": false,
+    "note": "Reported old ALTEN intern role"
+   },
+   "perplexity": {
+    "classification": "NOT_FOUND",
+    "detected_change": false,
+    "note": "Abstained, no match found"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported ALTEN intern, missed Kiewit"
+   }
+  }
+ },
+ "ève laurent": {
+  "name": "Ève Laurent",
+  "judge": {
+   "linkup": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company Tribunal judiciaire de Lille"
+   },
+   "exa": {
+    "classification": "FRESH",
+    "detected_change": true,
+    "note": "Reported new company Tribunal judiciaire de Lille"
+   },
+   "perplexity": {
+    "classification": "WRONG_PERSON",
+    "detected_change": false,
+    "note": "Reported student institution, neither new nor previous company"
+   },
+   "parallel": {
+    "classification": "STALE",
+    "detected_change": true,
+    "note": "Reported previous company as current, reversed the move"
+   }
+  }
+ }
+}

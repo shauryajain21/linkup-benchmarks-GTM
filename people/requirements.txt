@@ -1,0 +1,3 @@
+openpyxl
+matplotlib
+anthropic   # only needed to re-run the Eval 3 judge (eval_meeting_briefs.py --rejudge)
